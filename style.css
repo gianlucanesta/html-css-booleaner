@@ -65,12 +65,12 @@ h1 {
 table {
     margin-top: 20px;
     width: 70%;
+    border-collapse: collapse;
 }
 
 thead {
 color: white;
 background-color: #20a9e5;
-
 }
 
 td{
